@@ -1,7 +1,14 @@
 # TrafficFlow Prediction
 ## Dataset
-```shell
-
+spatio-temporal data
+```
+data/train.npz
+data/test.npz
+data/val.npz
+```
+graph data
+```
+data/sensor_graph/adj_mat.pkl
 ```
 ## Usage
 train the model
